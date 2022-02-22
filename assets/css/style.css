@@ -1,0 +1,15 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar, footer {
+    background-color: #E83E8C;
+}
+h1{
+  text-align: left;
+  color: #707070;
+  font-size: 54pt;
+}
+.footer-logo{
+  max-width: auto;
+  max-height: 10em;
+}
